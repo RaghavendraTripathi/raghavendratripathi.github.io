@@ -2,22 +2,20 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. UW Math Department. Contacts. Moto. Etc.
+subtitle: <a href='https://www.washington.edu/'>University of Washington</a>. Department of Mathematics. 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>C 34 Padelford Hall</p>
+    <p>University of Washington</p>
+    <p>Seattle, WA 98105</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-I will not write my biography.
-
-This is Raghav Tripathi.
+I am Raghavendra Tripathi. I am a 4th year PhD student at the University of Washington.
