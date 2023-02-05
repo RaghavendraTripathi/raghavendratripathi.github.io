@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Affiliations</a>. UW Math Department. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -20,4 +20,4 @@ social: true  # includes social icons at the bottom of the page
 
 I will not write my biography.
 
-This is Raghav.
+This is Raghav Tripathi.
