@@ -18,4 +18,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am Raghavendra Tripathi. I am currently a 4th year PhD student under the supervision of Prof. Soumik Pal. 
+I am Raghavendra Tripathi, currently a 4th year PhD student at the University of Washington, Seattle. I am working under the supervision of [Prof. Soumik Pal](https://sites.math.washington.edu/~soumik/). 

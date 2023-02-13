@@ -9,4 +9,3 @@ cv_pdf:
 
 ## Education
 
-2019- current University of Washington
