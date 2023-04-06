@@ -21,7 +21,7 @@
       
     - title: Masters of Science
       institution: Indian Institute of Science, Bangalore.
-      year: 2016-2019
+      year: 2019
       description:
         -Thesis: <a href="https://arxiv.org/abs/2009.09141"> Determinantal processes and stochastic domination</a>
         -Thesis Advisor: <a href="http://math.iisc.ac.in/~manju/"> Prof. Manjunath Krishnapur</a>
@@ -53,7 +53,10 @@
     - year: 2021
       items: 
         - Academic Excellence Award, UW
-    - year: 2019-2021
+    - year: 2020-2021
+      items: 
+        - Provost Fellowship, UW
+    - year: 2019-2020
       items: 
         - Provost Fellowship, UW
     - year: 2018
