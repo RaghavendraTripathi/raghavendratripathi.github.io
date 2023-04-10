@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Miscellaneous
+title: misc
 permalink: /projects/
 description: A collection of miscellaneous projects/thoughts.
 nav: true
