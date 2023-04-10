@@ -2,10 +2,10 @@
 layout: page
 title: misc
 permalink: /projects/
-description: A collection of miscellaneous projects/thoughts.
+description: A collection of miscellaneous projects/works/thoughts.
 nav: true
 nav_order: 2
-display_categories: [math, literature]
+display_categories: [math, lit]
 horizontal: false
 ---
 
