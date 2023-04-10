@@ -2,7 +2,7 @@
 layout: page
 title: Khushbu
 description: Devanagari transliteration of Parveen Shakir's first book Khushbu
-#img: assets/img/12.jpg
+img: assets/img/12.jpg
 importance: 1
 category: lit
 ---
