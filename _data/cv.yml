@@ -6,14 +6,14 @@
     - name: Date of Birth
       value: October 1st 1995
     - name: Languages
-      value: Hindi, English
+      value: Hindi, English, Urdu, Sanskrit, Bhojpuri
 
 - title: Education
   type: time_table
   contents:
     - title: PhD (pursuing)
       institution: University of Washington, Seattle.
-      year: (2019-present)
+      thesis advisor: <a href="https://sites.math.washington.edu//~soumik/"> Soumik Pal</a>
       
     - title: Masters of Science
       institution: University of Washington, Seattle.
@@ -24,7 +24,7 @@
       year: 2019
       description:
         -Thesis: <a href="https://arxiv.org/abs/2009.09141"> Determinantal processes and stochastic domination</a>
-        -Thesis Advisor: <a href="http://math.iisc.ac.in/~manju/"> Prof. Manjunath Krishnapur</a>
+        -Thesis Advisor: <a href="http://math.iisc.ac.in/~manju/"> Manjunath Krishnapur</a>
 #
 # - title: Experience
 #  type: time_table
