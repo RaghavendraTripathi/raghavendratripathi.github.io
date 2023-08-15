@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teachings/
-title: teaching and mentorship
+title: teaching
 description: This page contains list of courses that I taught or TA-ed. It also lists WDRP projects and WXML projects that I mentored.
 nav: true
 nav_order: 5
@@ -35,9 +35,10 @@ nav_order: 5
 - Complete feedback games
 - Growth of Ulam's sequence
 - Abelian sandpile model
-- Finding structures in integer seqeunces
+- Finding structures in integer sequences
 
 ### Others
+- 
 
 
 

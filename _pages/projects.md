@@ -5,7 +5,7 @@ permalink: /projects/
 description: A collection of miscellaneous projects/works/thoughts.
 nav: true
 nav_order: 2
-display_categories: [math, lit]
+%display_categories: [math, lit]
 horizontal: false
 ---
 
