@@ -8,10 +8,18 @@ nav_order: 5
 ---
 
 ## Courses
-- Analysis Prelim Prep
-- Math 308
-- Introduction to Mathematical Thinking
--
+	#### Instructor
+	- Analysis Prelim Prep
+		- Summer 2021
+	- Math 308
+		- Summer 2021
+	- Introduction to Mathematical Thinking
+		- Summer 2022
+	#### TA (with Office Hours)
+	- Math 525
+	- Math 524
+	- Math 424
+	- Math 324
 
 ## WDRP (Washington Directed Reading Program)
 
