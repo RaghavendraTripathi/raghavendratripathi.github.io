@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teachings/
-title: teaching
+title: teaching and mentorship
 description: This page contains list of courses that I taught or TA-ed. It also lists WDRP projects and WXML projects that I mentored.
 nav: true
 nav_order: 5
@@ -24,8 +24,21 @@ nav_order: 5
 - Math 324
 
 ### WDRP (Washington Directed Reading Program)
+- Introduction to computational complexity 
+- Mathematics of magic
+- Large networks and graphons
+- Introduction to random matrix theory
+- von Neumann inequality for matrices
 
 ### WXML (Washinton Experimental Math Lab)
+- Conformal dynamical system on Carnot groups
+- Complete feedback games
+- Growth of Ulam's sequence
+- Abelian sandpile model
+- Finding structures in integer seqeunces
+
+### Others
+
 
 
 
