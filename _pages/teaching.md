@@ -15,6 +15,7 @@ nav_order: 5
 	- Summer 2021
 - Introduction to Mathematical Thinking
 	- Summer 2022
+	
 #### TA (with Office Hours)
 - Math 525
 - Math 524
