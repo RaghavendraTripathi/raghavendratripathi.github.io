@@ -7,12 +7,15 @@ nav: true
 nav_order: 5
 ---
 
-# Courses
-	- 
+## Courses
+- Analysis Prelim Prep
+- Math 308
+- Introduction to Mathematical Thinking
+-
 
-#WDRP (Washington Directed Reading Program)
+## WDRP (Washington Directed Reading Program)
 
-#WXML (Washinton Experimental Math Lab)
+## WXML (Washinton Experimental Math Lab)
 
 
 
