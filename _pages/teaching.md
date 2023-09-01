@@ -19,11 +19,17 @@ nav_order: 5
 	
 #### TA (with Office Hours)
 -**Math 534**, Spring 2021
+
 -**Math 525**, Autumn 2022
+
 -**Math 465**, Winter 2023
+
 -**Math 464**, Spring 2020
+
 -**Math 424**, Winter 2020, Summer 2020, Autumn 2020, Winter 2021, Autumn 2021
+
 -**Math 327**, Autumn 2019
+
 -**Math 207**, Autumn 2023
 
 ### WDRP ([Washington Directed Reading Program](https://sites.uw.edu/wdrp/))
@@ -49,7 +55,8 @@ nav_order: 5
 - Finding structures in integer sequences
 
 ### Others
-- 
+- [Gorakhpur Undergraduate Mathematics Summer School]()
+-- 
 
 
 
