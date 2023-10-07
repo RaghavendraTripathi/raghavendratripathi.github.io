@@ -11,7 +11,6 @@ category: math
 - Knowing the odds: an introduction to probability. *John B Walsh*, American Mathematical Society.
 - Probability with martingales. *David Williams*, Cambridge university press.
 - Green, Brown, and Probability and Brownian motion on the line. *Kai Lai Chung*, World Scientific.
--
 
 
 ##### **Analysis**
