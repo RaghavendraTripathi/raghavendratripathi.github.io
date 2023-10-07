@@ -9,8 +9,8 @@ category: math
 ##### **Probability Theory**
 - Probability: theory and examples. *Rick Durrett*, Cambridge university press, 2019.
 - Knowing the odds: an introduction to probability. *John B Walsh*, American Mathematical Society.
-- Probability with martingales. *Williams, David*, Cambridge university press.
-- Green, Brown, and probability \& Brownian motion on the line. *Kai Lai, World Scientific.
+- Probability with martingales. *David Williams*, Cambridge university press.
+- Green, Brown, and Probability \& Brownian motion on the line. *Kai Lai Chung*, World Scientific.
 -
 
 
