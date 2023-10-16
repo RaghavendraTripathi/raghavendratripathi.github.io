@@ -13,7 +13,8 @@
   contents:
     - title: PhD (pursuing)
       institution: University of Washington, Seattle.
-      thesis advisor: <a href="https://sites.math.washington.edu//~soumik/"> Soumik Pal</a>
+      description:
+        Thesis advisor: <a href="https://sites.math.washington.edu//~soumik/"> Soumik Pal</a>
       
     - title: Masters of Science
       institution: University of Washington, Seattle.
@@ -24,7 +25,7 @@
       year: 2019
       description:
         Thesis: <a href="https://arxiv.org/abs/2009.09141"> Determinantal processes and stochastic domination</a>
-        Thesis Advisor: <a href="http://math.iisc.ac.in/~manju/"> Manjunath Krishnapur</a>
+        Thesis advisor: <a href="http://math.iisc.ac.in/~manju/"> Manjunath Krishnapur</a>
 #
 # - title: Experience
 #  type: time_table
