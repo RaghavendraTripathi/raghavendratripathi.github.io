@@ -5,8 +5,8 @@
       value: Raghavendra Tripathi
     - name: Date of Birth
       value: October 1st 1995
-    - name: Languages
-      value: Hindi, English, Urdu, Sanskrit, Bhojpuri
+    #- name: Languages
+    #  value: Hindi, English, Urdu, Sanskrit, Bhojpuri
 
 - title: Education
   type: time_table
@@ -50,6 +50,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2023
+      items: 
+        - Walter J. Michaelis Grad Fellowship in Mathematics, UW
     - year: 2021
       items: 
         - Academic Excellence Award, UW
@@ -61,7 +64,7 @@
         - Provost Fellowship, UW
     - year: 2018
       items: 
-        - CSIR-NET Junior Research Fellowship (All India Rank 3)
+        - CSIR-NET Junior Research Fellowship, India (All India Rank 3)
 
 - title: Academic Interests
   type: nested_list
