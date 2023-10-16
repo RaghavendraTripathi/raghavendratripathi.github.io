@@ -14,7 +14,7 @@ profile:
     <p>Seattle, WA 98105</p>
     <p> raghavt@uw.edu</p>
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 latest_posts: false #Includes announcement of latest blog posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
