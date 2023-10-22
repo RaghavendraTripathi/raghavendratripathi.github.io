@@ -1,11 +1,11 @@
 ---
 layout: page
-title: misc
+title: talks
 permalink: /projects/
-description: A collection of miscellaneous projects/works/thoughts.
+description: Talks/Seminars/Posters
 nav: true
 nav_order: 2
-display_categories: [math, lit]
+#display_categories: [math, lit]
 horizontal: false
 ---
 
