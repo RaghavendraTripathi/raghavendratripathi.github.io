@@ -5,7 +5,7 @@ title: UW Math Prelims
 description: Solutions to Prelims problems
 importance: 1
 tags: Prelim Exams, Real Analysis, Complex Analysis, UW
-categories: math
+category: math
 ---
 
 I co-taught Analysis [Prelims Prep](https://math.washington.edu/phd-preliminary-exams) in Summer 2021. During the course, I decided to write solutions to (some of the) real analysis and complex analysis problems that were asked in past years. 
