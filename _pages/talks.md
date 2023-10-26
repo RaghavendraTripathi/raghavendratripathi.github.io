@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: talks
 permalink: /talks/
 title: talks
 nav: true
