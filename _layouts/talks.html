@@ -1,7 +1,13 @@
---- layout: default ---
-{{ page.title }} {% if page.talk_pdf %}{% endif %}
-{{ page.description }}
-{% for entry in site.data.talks %}
-{{ entry.title }}
-{% if entry.type == "list" %} {% include talks/list.html %} {% elsif entry.type == "map" %} {% include talks/map.html %} {% elsif entry.type == "nested_list" %} {% include talks/nested_list.html %} {% elsif entry.type == "time_table" %} {% include talks/time_table.html %} {% else %} {{ entry.contents }} {% endif %}
-{% endfor %}
+<p>--- layout: default ---</p>
+
+<h1>{{ page.title }} {% if page.talks_pdf %}{% endif %}</h1>
+
+<p>{{ page.description }}</p>
+
+<p>{% for entry in site.data.talks %}</p>
+
+<h3>{{ entry.title }}</h3>
+
+<p>{% if entry.type == &quot;list&quot; %} {% include talks/list.html %} {% elsif entry.type == &quot;map&quot; %} {% include talks/map.html %} {% elsif entry.type == &quot;nested_list&quot; %} {% include talks/nested_list.html %} {% elsif entry.type == &quot;time_table&quot; %} {% include talks/time_table.html %} {% else %} {{ entry.contents }} {% endif %}</p>
+
+<p>{% endfor %}</p>
