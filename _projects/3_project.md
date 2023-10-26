@@ -1,7 +1,7 @@
 ---
 layout: post
-title: {UW Analysis Prelims}
-description: Solutions to Prelims problems
+title: UW Analysis Prelims
+description: Solutions to Prelim problems
 importance: 1
 category: math
 ---
