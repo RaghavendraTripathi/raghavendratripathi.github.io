@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: misc
 permalink: /projects/
 description: A collection of miscellaneous projects/works/thoughts.
