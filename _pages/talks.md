@@ -1,10 +1,9 @@
 ---
-layout: cv
+layout: page
 permalink: /talks/
 title: talks
 nav: true
 nav_order: 5
-#cv_pdf: 
 ---
 
 ## Education
