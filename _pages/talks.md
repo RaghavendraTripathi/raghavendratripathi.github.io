@@ -1,10 +1,10 @@
 ---
 layout: cv
-permalink: /cv/
-title: cv
+permalink: /talks/
+title: talks
 nav: true
-nav_order: 4
-cv_pdf: 
+nav_order: 5
+#cv_pdf: 
 ---
 
 ## Education
