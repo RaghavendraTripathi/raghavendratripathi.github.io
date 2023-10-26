@@ -2,15 +2,8 @@
 layout: post
 title: Sierpinski Example
 description: A holomorphic function on disk which is not continuous at any point on the boundary
-date: 2023-02-04
-
-authors:
- - name: Raghavendra Tripathi
-
-# bibliography: 2023-02-04-sierpinski.bib
-
-# toc:
-# 	- name: Sierpinski's Example
+importance: 1
+category: math
 ---
 
 ## Sierpinski's Example
