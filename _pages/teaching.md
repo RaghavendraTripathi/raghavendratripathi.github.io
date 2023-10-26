@@ -53,7 +53,7 @@ nav_order: 5
 
 #### Others
 - Gorakhpur Undergraduate Mathematics Summer School
-	- 
+	-  Organized and taught a two-week long undergraduate school at *Deen Dayal Upadhyay University, Gorakhpur*. 
 
 
 
