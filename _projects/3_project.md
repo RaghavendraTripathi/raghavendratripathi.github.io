@@ -1,10 +1,8 @@
 ---
 layout: post
 title: UW Math Prelims
-#date: 2023
 description: Solutions to Prelims problems
 importance: 1
-tags: Prelim Exams, Real Analysis, Complex Analysis, UW
 category: math
 ---
 
