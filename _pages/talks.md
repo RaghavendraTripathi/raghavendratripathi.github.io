@@ -6,5 +6,4 @@ nav: true
 nav_order: 5
 ---
 
-## Education
 
