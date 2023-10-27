@@ -1,7 +1,25 @@
-- title: Invited Talks and Seminars
-  type: time_table
-  contents:      
-    - title: Optimization on graphons
-      institution: IFDS, UW.
-      year: 2020
-   
+
+
+#
+# - title: Experience
+#  type: time_table
+#  contents:
+#    - title: Professor of Theoretical Physics
+#      institution: Institute for Advanced Study, Princeton University
+#      year: 1933 - 1955
+#      description:
+#        - Description 1.
+#        - Description 2.
+#        - title: Description 3.
+#          contents:
+#            - Sub-description 1.
+#            - Sub-description 2.
+
+- title: Talks/Seminars
+#  type: time_table
+#  contents:
+#    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#      year: 2020
+#      description: .
+
+
