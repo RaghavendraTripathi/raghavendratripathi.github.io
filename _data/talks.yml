@@ -1,6 +1,9 @@
 - title: Invited Talks/Seminars
   type: time_table
   contents:
+    - title: TBD
+      institution: <a herf="https://probability.commons.gc.cuny.edu/22nd-northeast-probability-seminar/">North East Probability Seminar, NYU</a>
+      year: Nov 2023
     - title: <a href="https://raghavendratripathi.github.io/assets/slides/General_tripathi.pdf">Dynamics optimization on graphons</a>
       institution: Probability Seminar at UW
       year: 13 Feb 2023
@@ -25,7 +28,7 @@
     - title: Quadratic Forms, Symmetrization, and Contraction
       institution: Reading group on High dimensional probability at UW
       year: Winter 2021
-    - title: Longest increasing subsequence in random permutation
+    - title: <a href="https://raghavendratripathi.github.io/assets/slides/GSAS_2021.pdf">Beyond Ulam-Hammersley problem</a>
       institution: Graduate Student Analysis Seminar at UW
       year: 4 Feb 2021
 
