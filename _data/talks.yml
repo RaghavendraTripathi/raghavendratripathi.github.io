@@ -1,13 +1,13 @@
 - title: Invited Talks/Seminars
   type: time_table
   contents:
-    - title: <a href="">Dynamics optimization on graphons</a>
-      institution: UW
-      year: 17 July 20
+    - title: <a href="https://raghavendratripathi.github.io/assets/slides/General_tripathi.pdf">Dynamics optimization on graphons</a>
+      institution: Probability Seminar at UW
+      year: 13 Feb 2023
       #description: Abracadabra
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      institution: UW
-      year: 17 July 20
+    - title: <a href="https://raghavendratripathi.github.io/assets/slides/IFMLFeb2023.pdf">Scaling limit of SGD over large graphs</a>
+      institution: <a href="https://kantorovich.org/event/ki-retreat-2023">KI+IFML Retreat</a>
+      year: 2 Feb 2023
       #description: Abracadabra
 
 
