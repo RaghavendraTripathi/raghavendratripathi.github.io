@@ -4,6 +4,10 @@
     - title: TBD
       institution: <a herf="https://probability.commons.gc.cuny.edu/22nd-northeast-probability-seminar/">North East Probability Seminar, NYU</a>
       year: Nov 2023
+    - title: <a href="">Scaling limits of graph dynamics</a>
+      institution: <a href="https://kantorovich.org/event/ki-retreat-2023-2/">KI+Scale MoDL Retreat</a>
+      year: 25 May 2023
+      #description: Abracadabra
     - title: <a href="https://raghavendratripathi.github.io/assets/slides/General_tripathi.pdf">Dynamics optimization on graphons</a>
       institution: Probability Seminar at UW
       year: 13 Feb 2023
@@ -11,6 +15,10 @@
     - title: <a href="https://raghavendratripathi.github.io/assets/slides/IFMLFeb2023.pdf">Scaling limit of SGD over large graphs</a>
       institution: <a href="https://kantorovich.org/event/ki-retreat-2023">KI+IFML Retreat</a>
       year: 2 Feb 2023
+      #description: Abracadabra
+    - title: <a href="https://kantorovich.org/event/ki-retreat-2022/Somani-Tripathi.pdf">Gradient flow on graphons</a>
+      institution: <a href="https://kantorovich.org/event/ki-retreat-2022/">KI Retreat 2022</a>
+      year: 18 Mar 2022
       #description: Abracadabra
 
 
