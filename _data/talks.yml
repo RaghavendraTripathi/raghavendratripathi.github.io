@@ -11,3 +11,28 @@
       #description: Abracadabra
 
 
+- title: Student Seminars
+  type: time_table
+  contents:
+    - title: Introduction to free probability
+      institution: Graduate Student Analysis Seminar at UW
+      year: 20 Apr 2023
+      #description: Abracadabra
+    - title: Lightening talk - A problem about product measures
+      institution: Graduate Student Analysis Seminar at UW
+      year: 30 Mar 2023
+      #description: Abracadabra
+    - title: Quadratic Forms, Symmetrization, and Contraction
+      institution: Reading group on High dimensional probability at UW
+      year: Winter 2021
+    - title: Longest increasing subsequence in random permutation
+      institution: Graduate Student Analysis Seminar at UW
+      year: 4 Feb 2021
+
+- title: Posters
+  type: time_table
+  contents:
+    - title: Gradient flows on graphons existence, convergence, continuity equations
+      institution: <a href="https://sites.google.com/view/lpsxv/home">LPS XV at IISc, Bangalore</a>
+      year: 3 Dec 2022
+      #description: Abracadabra
