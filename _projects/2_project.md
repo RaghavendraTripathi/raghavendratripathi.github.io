@@ -34,4 +34,6 @@ category: math
 - Resonance: From probability to epistemology and back. K. Burdzy, World Scientific.
 
 #Papers
-
+-  Narici, Lawrence, and Edward Beckenstein. "The Hahn-Banach theorem: the life and times." *Topology and its Applications* 77.2 (1997): 193-211.
+    -- Interesting read. Provides a history of functional analysis and Hahn-Banach theorem.
+-
