@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Mathematics books
-description: A (useful?) list of (mostly) mathematics books that I like
+title: Books/Papers
+description: A (useful?) list of (mostly) mathematics books and papers that I enjoyed. This page is inspired from an infinitely better [reading suggestion](https://math.iisc.ac.in/~manju/suggestedreading.html) by Manjunath Krishnapur.
 #img: assets/img/PS.jpg
 importance: 1
 category: math
 ---
+#Books
 ##### **Probability Theory**
 - Probability: theory and examples. *Rick Durrett*, Cambridge university press, 2019.
 - Knowing the odds: an introduction to probability. *John B Walsh*, American Mathematical Society.
@@ -32,4 +33,5 @@ category: math
 - Beautiful, Simple, Exact, Crazy: Mathematics in the Real World. Apoorva Khare and Anne Lachowska. Yale University Press.
 - Resonance: From probability to epistemology and back. K. Burdzy, World Scientific.
 
+#Papers
 
