@@ -1,6 +1,6 @@
 ---
 layout: post
-date: Jan 1, 24 to Jan 6 24
+date: 1-6 Jan 2024
 inline: true
 related_posts: false
 ---
