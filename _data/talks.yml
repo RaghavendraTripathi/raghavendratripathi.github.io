@@ -1,7 +1,13 @@
 - title: Talks/Seminars
   type: time_table
   contents:
-    - title: TBD
+    - title: Optimization on graphons ":" Two approaches
+      institution: <a herf="https://www.math.tifrbng.res.in/events/optimization-on-graphons-two-approaches">TIFR-CAM, Bangalore</a>
+      year: Jan 2024
+    - title: Gradient flow on graphons via Metropolis
+      institution: <a herf="https://secure.math.ubc.ca/Links/ProbSeminar/">UBC Probability Seminar</a>
+      year: Nov 2023
+    - title: On two color exchangeability
       institution: <a herf="https://probability.commons.gc.cuny.edu/22nd-northeast-probability-seminar/">North East Probability Seminar, NYU</a>
       year: Nov 2023
     - title: <a href="">Scaling limits of graph dynamics</a>
