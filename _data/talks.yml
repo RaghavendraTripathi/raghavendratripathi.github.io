@@ -1,13 +1,25 @@
 - title: Talks/Seminars
   type: time_table
   contents:
-    - title: Optimization on graphons ":" Two approaches
+    - title: <a href="">On log-concavity of number of commuting tuples of permutations</a>
+      institution: <a herf="">ISI, Bangalore</a>
+      year: 15 Oct 2024
+    - title: <a href="">Optimization and Dynamics on large graphs</a>
+      institution: <a herf="https://math.iisc.ac.in/seminars/2024/2024-10-14-raghavendra-tripathi.html">Bangalore Probability Seminar at IISc Kanpur</a>
+      year: 14 Oct 2024
+    - title: <a href="">Some observations on Erd\H{o}s matrices</a>
+      institution: <a herf="">Stamatic, IIT Kanpur</a>
+      year: Sept 2024
+    - title: <a href="https://raghavendratripathi.github.io/assets/slides/CLT-IITK.pdf">Central limit theorem in complete feedback games</a>
+      institution: <a herf="https://iitk.ac.in/webtheme/math/index.php/department-seminars-2024">Department of Mathematics and Statistics, IIT Kanpur</a>
+      year: Sept 2024
+    - title: <a href="">Optimization on graphons ":" Two approaches</a>
       institution: <a herf="https://www.math.tifrbng.res.in/events/optimization-on-graphons-two-approaches">TIFR-CAM, Bangalore</a>
-      year: Jan 2024
-    - title: Gradient flow on graphons via Metropolis
+      year: 15 Jan 2024
+    - title: <a href="">Gradient flow on graphons via Metropolis</a>
       institution: <a herf="https://secure.math.ubc.ca/Links/ProbSeminar/">UBC Probability Seminar</a>
       year: Nov 2023
-    - title: On two color exchangeability
+    - title: <a href="">On two color exchangeability</a>
       institution: <a herf="https://probability.commons.gc.cuny.edu/22nd-northeast-probability-seminar/">North East Probability Seminar, NYU</a>
       year: Nov 2023
     - title: <a href="">Scaling limits of graph dynamics</a>
