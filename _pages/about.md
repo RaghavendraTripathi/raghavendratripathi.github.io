@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.washington.edu/'>University of Washington</a>.<a href="https://math.washington.edu"> Department of Mathematics</a>. 
+subtitle: <a href='https://nyuad.nyu.edu/en/'>New York University, Abu Dhabi</a>.<a href="https://nyuad.nyu.edu/en/academics/divisions/science/academic-programs/math.html"> Department of Mathematics</a>. 
 
 profile:
   align: right
@@ -12,7 +12,7 @@ profile:
     <p>A2-142B</p>
     <p>Computational Research Building</p>
     <p>NYU, Abu Dhabi</p>
-    <p> r.tripathi@nyu.edu</p>
+    <p>r.tripathi@nyu.edu</p>
 
 news: true  # includes a list of news items
 latest_posts: false #Includes announcement of latest blog posts
