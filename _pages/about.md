@@ -9,10 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>C 34 Padelford Hall</p>
-    <p>University of Washington</p>
-    <p>Seattle, WA 98105</p>
-    <p> raghavt@uw.edu</p>
+    <p>A2-142B</p>
+    <p>Computational Research Building</p>
+    <p>NYU, Abu Dhabi</p>
+    <p> r.tripathi@nyu.edu</p>
 
 news: true  # includes a list of news items
 latest_posts: false #Includes announcement of latest blog posts
@@ -20,6 +20,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am Raghavendra Tripathi, currently a final year PhD student at the University of Washington, Seattle. I am working under the supervision of [Prof. Soumik Pal](https://sites.math.washington.edu/~soumik/). We are currently investigating optimization problems on graphons. I am also interested in random matrix theory and optimal transport.
+I am Raghavendra Tripathi. I am postdoctoral associate at New York University, Abu Dhabi where I work with Pierre Youssef. 
 
-Before coming to Seattle, I received my Master's degree in mathematics from [Indian Institute of Science](http://www.math.iisc.ac.in), Bangalore. Outside mathematics I am interested in linguistics and poetry.  
+I did my PhD under the supervision of [Prof. Soumik Pal](https://sites.math.washington.edu/~soumik/) at the University of Washington, Seattle.  Before going to Seattle, I received my Master's degree in mathematics from [Indian Institute of Science](http://www.math.iisc.ac.in), Bangalore. Outside mathematics I am interested in linguistics and poetry.  
