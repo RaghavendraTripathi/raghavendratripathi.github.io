@@ -15,6 +15,7 @@
       institution: University of Washington, Seattle.
       year: 2024
       description:
+        Thesis:<a href="">Stochastic Analysis on Graphons</a>
         Thesis advisor: <a href="https://sites.math.washington.edu//~soumik/"> Soumik Pal</a>
       
     - title: Masters of Science
@@ -27,8 +28,8 @@
       description:
         Thesis: <a href="https://arxiv.org/abs/2009.09141"> Determinantal processes and stochastic domination</a>
         Thesis advisor: <a href="http://math.iisc.ac.in/~manju/"> Manjunath Krishnapur</a>
-#
- - title: Work Experience
+
+- title: Work Experience
   type: time_table
   contents:
     - title: Postdoctoral Associate
