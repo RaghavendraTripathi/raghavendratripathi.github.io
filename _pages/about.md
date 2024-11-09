@@ -8,10 +8,10 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
+  address: 
     <p>A2-142B</p>
     <p>Computational Research Building</p>
-    <p>NYU, Abu Dhabi</p>
+    <p>New York University, Abu Dhabi</p>
     <p>r.tripathi@nyu.edu</p>
 
 news: true  # includes a list of news items
