@@ -1,6 +1,24 @@
 - title: Talks/Seminars
   type: time_table
   contents:
+    - title: <a href="">Khintchine inequality for mixture of free and independent semicircles</a>
+      institution: <a herf="">SPA, Poland</a>
+      year: July 2025
+    - title: <a href="">Orbits of random commuting permutations</a>
+      institution: <a herf="">Saint Flour, France</a>
+      year: July 2025
+    - title: <a href="">Statistics of random permutations</a>
+      institution: <a herf="">LIMIT ISI Bangalore</a>
+      year: June 2025
+    - title: <a href="">Erd\H{o}s matrices and some related problems</a>
+      institution: <a herf="">IIT Delhi</a>
+      year: April 2025
+    - title: <a href="">CLT in complete feedback games</a>
+      institution: <a herf="">Annual Research Conference, NYU Abu Dhabi</a>
+      year: Jan 2025
+    - title: <a href="">Limits of processes on dense graphs</a>
+      institution: <a herf="">BIRS-CMI Workshop, Chennai</a>
+      year: Dec 2024
     - title: <a href="">On log-concavity of number of commuting tuples of permutations</a>
       institution: <a herf="">ISI, Bangalore</a>
       year: 15 Oct 2024
