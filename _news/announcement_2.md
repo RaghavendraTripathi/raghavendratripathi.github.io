@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-11-16/17
+date: Oct 2024
 inline: true
 related_posts: false
 ---
 
-Going for [22nd Northeast Probability Seminar](https://probability.commons.gc.cuny.edu/22nd-northeast-probability-seminar/)
+Our paper <a href="https://www.cambridge.org/core/journals/journal-of-applied-probability/article/central-limit-theorem-in-complete-feedback-games/37DFFBA6505CDA0675B632CBAA55677A">Central limit theorem in complete feedback games</a> included in the <a href="https://www.cambridge.org/core/journals/journal-of-applied-probability/collections/october-2024-stochastic-games">Applied Probability Collection, on the topic of Stochastic Games</a>, put together by Professor S. Christensen.
