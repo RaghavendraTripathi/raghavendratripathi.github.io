@@ -1,81 +1,39 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: Books/Papers
+description: A (useful?) list of (mostly) mathematics books and papers that I enjoyed. This page is inspired from an infinitely better [reading suggestion](https://math.iisc.ac.in/~manju/suggestedreading.html) by Manjunath Krishnapur.
+#img: assets/img/PS.jpg
+importance: 1
+category: math
 ---
+#Books
+##### **Probability Theory**
+- Probability: theory and examples. *Rick Durrett*, Cambridge university press, 2019.
+- Knowing the odds: an introduction to probability. *John B Walsh*, American Mathematical Society.
+- Probability with martingales. *David Williams*, Cambridge university press.
+- Green, Brown, and Probability and Brownian motion on the line. *Kai Lai Chung*, World Scientific.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+##### **Analysis**
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+##### **Math History**
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-{% raw %}
+##### **Misc**
+- Proofs from the Book,  Martin Aigner and Günter M. Ziegler.
+- What is Mathematics?: an elementary approach to ideas and methods. Richard Courant and Robbins Herbert. Oxford University Press.
+- What is mathematics, really?,  Hersh, Reuben
+- What is Mathematics?, Balkrishna Shetty
+- Magical mathematics: the mathematical ideas that animate great magic tricks. Persi Diaconis and Ron Graham. Princeton University Press.
+- Gödel, Escher, Bach: an eternal golden braid.  Douglas R. Hofstadter.
+- Inequalities. G. H. Hardy, J. E. Littlewood and G. Pólya. Cambridge university press.
+- Beautiful, Simple, Exact, Crazy: Mathematics in the Real World. Apoorva Khare and Anne Lachowska. Yale University Press.
+- Resonance: From probability to epistemology and back. K. Burdzy, World Scientific.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+#Papers
+-  Narici, Lawrence, and Edward Beckenstein. "The Hahn-Banach theorem: the life and times." *Topology and its Applications* 77.2 (1997): 193-211.
+    -- Interesting read. Provides a history of functional analysis and Hahn-Banach theorem.
+-
