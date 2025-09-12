@@ -45,7 +45,7 @@ nav_order: 3
 - [Guessing with feedback](http://www.wxml.math.washington.edu/?page_id=1272), Autumn 2021
 	-
 - [Growth of Ulam's sequence](http://www.wxml.math.washington.edu/?page_id=1240), Spring 2021
-	- 
+	-
 - [Random Walk Excursions and the Stochastic Sandpile Model](http://www.wxml.math.washington.edu/?page_id=1219)
 	-
 - [Topological structures hiding in sequences of real numbers](http://www.wxml.math.washington.edu/?page_id=1173), Autumn 2020

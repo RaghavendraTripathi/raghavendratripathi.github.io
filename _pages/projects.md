@@ -5,7 +5,7 @@ permalink: /projects/
 description: Some misc. projects.
 nav: true
 nav_order: 4
-display_categories: [lit, math, work, fun]
+display_categories: [math, work, lit, fun]
 horizontal: false
 ---
 
