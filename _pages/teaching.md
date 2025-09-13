@@ -27,7 +27,7 @@ nav_order: 3
 - **Math 207**, Autumn 2023
 
 #### WDRP ([Washington Directed Reading Program](https://sites.uw.edu/wdrp/))
-######## WDRP is a 1-credit course offered as Math 398. Typically 1-2 student mentee(s) are assigned to a graduate mentor. It is a fun way to explore interesting areas of mathematics! Below is the list of projects that I have mentored at UW.
+WDRP is a 1-credit course offered as Math 398. Typically 1-2 student mentee(s) are assigned to a graduate mentor. It is a fun way to explore interesting areas of mathematics! Below is the list of projects that I have mentored at UW.
 - **Introduction to computational complexity**, *Spring 2023*, Student: Sam Tacheny
 - **Magical Mathematics**, *Winter 2023*, Student: Daria Akselrod
 - **Large networks and graph limits**, *Autumn 2022*, Student: Tianyang (Terence) Wang
@@ -36,20 +36,20 @@ nav_order: 3
 - **What is Mathematics?**, *Winter 2020*, Students: Roark Wolf and Reece Peters
 
 #### WXML [Washinton Experimental Math Lab](http://www.wxml.math.washington.edu/?page_id=370)
-######## WXML is a unique program at UW where a faculty, a graduate student and a group of undergraduate students come together to explore mathematics. Following is a list of cool projects that I was part of. I also say a line or two about the projects below, for more details click on the projects or write an email to me.
+WXML is a unique program at UW where a faculty, a graduate student and a group of undergraduate students come together to explore mathematics. Following is a list of cool projects that I was part of. I also say a line or two about the projects below, for more details click on the projects or write an email to me.
 
-- [Mysteries in metric spaces](Mysteries in Metric Spaces), Spring 2023
-	-
-- [Conformal dynamical system on Carnot groups](http://www.wxml.math.washington.edu/?page_id=1290), Winter 2022-Spring 2022, Autumn 2022
-	-
-- [Guessing with feedback](http://www.wxml.math.washington.edu/?page_id=1272), Autumn 2021
-	-
-- [Growth of Ulam's sequence](http://www.wxml.math.washington.edu/?page_id=1240), Spring 2021
-	-
-- [Random Walk Excursions and the Stochastic Sandpile Model](http://www.wxml.math.washington.edu/?page_id=1219)
-	-
-- [Topological structures hiding in sequences of real numbers](http://www.wxml.math.washington.edu/?page_id=1173), Autumn 2020
-	-
+- **Pinned Billiard Balls**, Autumn 2023, *Faculty Mentor:* Krzysztof Burdzy
+	- [Pinned Billiard Balls Simulation (WXML Autumn 2023 report)](https://arxiv.org/abs/2312.11869)
+- **Mysteries in metric spaces**, Spring 2023, *Faculty Mentor:* Stefan Steinerberger
+- **Conformal dynamical system on Carnot groups**, Winter 2022-Spring 2022, Autumn 2022, *Faculty Mentor:* Hadrian Quan
+  - [EIGENVALUE ALGORITHM FOR HAUSDORFF DIMENSION ON COMPLEX KLEINIAN GROUPS](https://scholar.rose-hulman.edu/rhumj/vol24/iss2/12/)
+- **Guessing with feedback**, Autumn 2021, *Faculty Mentor:* Andrea Ottolini
+- **Growth of Ulam's sequence**, Spring 2021, *Faculty Mentor:* Stefan Steinerberger
+- **Random Walk Excursions and the Stochastic Sandpile Model**, Winter 2021, *Faculty Mentor:* Chris Hoffman
+- **Topological structures hiding in sequences of real numbers**, Autumn 2020, *Faculty Mentor:* Stefan Steinerberger
+  - [
+Finding structure in sequences of real numbers via graph theory: a problem list](https://msp.org/involve/2022/15-2/p05.xhtml)
+
 
 #### Others
 - Gorakhpur Undergraduate Mathematics Summer School
