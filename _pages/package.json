@@ -1,0 +1,11 @@
+{
+  "name": "raghavendratripathi-github-io-pages",
+  "private": true,
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  },
+  "scripts": {
+    "prettier:check": "prettier --check \"**/*.{md,mdx,json,yml,yaml,html,css,js,ts}\"",
+    "prettier:fix": "prettier --write \"**/*.{md,mdx,json,yml,yaml,html,css,js,ts}\""
+  }
+}

@@ -1,0 +1,5 @@
+# Ignore build artifacts and caches
+node_modules/
+.DS_Store
+_site/
+.cache/
